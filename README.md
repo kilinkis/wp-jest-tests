@@ -9,3 +9,6 @@ Clone this repo and enter its directory.
 Run `npm install` to download all the dependencies.
 
 Run `npm run test` to run Jest tests.
+
+## Tutorial  
+https://startfunction.com/javascript-tests-wordpress-jest/
